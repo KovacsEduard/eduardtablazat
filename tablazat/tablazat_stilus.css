@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(12, 209, 160);
+}
+table{
+    margin: auto;
+}
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    height: 200px;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#egyediszin{
+    background-color: rgb(98, 184, 218);
+}
+.nagydoboz{
+    border: 2px dashed black;
+    display: flex;
+    font-family: 'Lato', sans-serif;
+}
+.kisdoboz{
+    background-color: rgb(23, 219, 121);
+    border: 1px solid rgb(9, 246, 195);
+    border-radius: 15px;
+    margin: 0px 15px;
+    padding: 10px;
+    text-align: justify;
+}
